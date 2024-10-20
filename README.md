@@ -1,4 +1,4 @@
-# yt-copystrike-buster
+# YT Copystrike Buster
 
 ## Prereqs
 
@@ -7,12 +7,10 @@
 - Tiktok Account
 - Vimeo Account
 
-### TBC 3
+### 3
 
-#### TBC 4
+#### 4
 
-##### TBC 5
-
-###### Links
+##### Links
 
 - <https://www.youtube.com/watch?v=uctdAo33dgc>
