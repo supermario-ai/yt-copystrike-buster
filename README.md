@@ -13,7 +13,7 @@
 
 ##### Links
 
-Copystrike Testing Ground Playlist
+Copystrike TestBed Playlist
 
 - <https://www.youtube.com/playlist?list=PLMNUNatppnIfuD7-GDAG9TL4s3uXOvwAK>
 
