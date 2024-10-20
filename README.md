@@ -7,4 +7,14 @@
 - Tiktok Account
 - Vimeo Account
 
-### TBC
+### TBC 3
+
+#### TBC 4
+
+##### TBC 5
+
+###### Links
+
+YouTube Insider Exposes How The Algorithm ACTUALLY Works
+
+- <https://www.youtube.com/watch?v=uctdAo33dgc>
