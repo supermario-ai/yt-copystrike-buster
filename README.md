@@ -13,10 +13,10 @@
 
 ##### Links
 
-Copystrike TestBed Playlist
+Copystrike TestBed Playlist:
 
 - <https://www.youtube.com/playlist?list=PLMNUNatppnIfuD7-GDAG9TL4s3uXOvwAK>
 
-YouTube Insider Exposes How The Algorithm ACTUALLY Works (s/o to vidIQ)
+YouTube Insider Exposes How The Algorithm ACTUALLY Works (s/o to vidIQ):
 
 - <https://www.youtube.com/watch?v=uctdAo33dgc>
