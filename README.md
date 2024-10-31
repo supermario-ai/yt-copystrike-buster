@@ -8,10 +8,11 @@
 - Vimeo Account
 
 ### Preface
-#theorchard #theorchardmusic #youtube - We're generating a hyper lucid tutorial video series about your trivial copystrike system and how it works, circumvention for FALSE copyright holders, going to flush out that one video that was labelled with ONE Kanji character, with NO MENTION OF THE ORCHARDS COPYRIGHT, and publicly air both of you out on GitHub. 
-Call Legal, its on Famz. If we're wrong, we'll delete - but remember - we're #goated for dodging those pesky-wesky copystrikes! (60-1) ‼️ [🍑]
+
+"#theorchard" "#theorchardmusic" "#youtube" - We're generating a hyper lucid tutorial video series about your trivial copystrike system and how it works, circumvention for FALSE copyright holders, going to flush out that one video that was labelled with ONE Kanji character, with NO MENTION OF THE ORCHARDS COPYRIGHT, and publicly air both of you out on GitHub. Call Legal, its on Famz. If we're wrong, we'll delete - but remember - we're #goated for dodging those pesky-wesky copystrikes! (60-1) ‼️ [🍑]
 ---
-https://github.com/supermario-ai/yt-copystrike-buster
+
+<https://github.com/supermario-ai/yt-copystrike-buster>
 
 #### 4
 
